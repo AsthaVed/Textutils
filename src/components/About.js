@@ -26,7 +26,7 @@ export default function About(props) {
               aria-controls="collapseOne"
               style={myStyle}
             >
-              <strong>Analyze your text</strong>
+              <strong>Analyze your text.</strong>
             </button>
           </h2>
           <div
